@@ -9,7 +9,7 @@
 - 💻 Passionate about TypeScript & Node.js
 - 🤝 I’m available for work.
 
-<h3>Reach me here 👇</h3>
+<h3>Reach me out 👇</h3>
 <p>
   <a href="http://t.me/truehazker" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/truehazker/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

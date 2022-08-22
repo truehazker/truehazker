@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2>
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-<!--
-**truehazker/truehazker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><b>My name is Egor Berlin and I'm a software developer.</b></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ I love blockchain and Web3
+- 💻 Passionate about TypeScript & Node.js
+- 🤝 I’m available for work.
+
+<h3>Reach me here 👇</h3>
+<p>
+  <a href="http://t.me/truehazker" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/truehazker/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+
+<p align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=truehazker&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Truehazker" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=truehazker&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Truehazker" align = "center"/></p>

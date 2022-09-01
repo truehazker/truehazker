@@ -5,9 +5,9 @@
 <p><b>My name is Egor Berlin and I'm a software developer.</b></p>
 
 
-- ❤️ I love blockchain and Web3
+- ❤️ I love creating something new and awesome
 - 💻 Passionate about TypeScript & Node.js
-- 🤝 I’m available for work.
+- 👷‍♂️ Crazy about Solidity & Hardhat
 
 <h3>Reach me out 👇</h3>
 <p>
